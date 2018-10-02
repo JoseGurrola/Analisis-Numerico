@@ -1,6 +1,6 @@
 /*
-   Analisis Númerico 1
-   Autor: María Adriana Ochoa
+   Analisis NÃºmerico 1
+   Autor: JosÃ© Juan Gurrola Cota
    Programa: Programa que genera el polinomio interpolante con diferencias divididas de Newton de orden n, dados n+1 puntos. 
    27/11/2014
 */
